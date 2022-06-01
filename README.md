@@ -1,7 +1,8 @@
 ####### C++ project
 
 
-######## Jak uruchomić program ########
+######## Jak uruchomić program 
+
 Otworzyć Visual Studio oraz sklonować repozytorium z tego linku 
 https://github.com/mario343/Cppproject.git
 
@@ -18,7 +19,7 @@ Uruchomić programy.
 
 
 
-######## Jeśli nie zadziała to: ########
+######## Jeśli nie zadziała to:
 
 Zbudować rozwiązanie dla Pongoo
 Zbudować rozwiązanie dla Project3 (Okno.sln)
@@ -33,6 +34,7 @@ private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e
  \\Pongoo\\x64\\Debug\\Pongoo.exe pozostaje takie samo 
  
  Uruchomić programy.
+ 
  
  ################### ################### ################### ################### ###################
  Urochomić programy możemy debugowując je w Visual Studio, można też uruchomić je za pomocą plików .exe
