@@ -38,6 +38,7 @@ private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e
  
  ################### ################### ################### ################### ###################
  Urochomić programy możemy na 2 sposoby
+
  1.debugowując je w Visual Studio
  
  2.można też uruchomić je za pomocą plików .exe
