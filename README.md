@@ -13,6 +13,7 @@ dokładnie 143 linijkę kodu na odpowiednią ścieżkę w której znajduje się 
 private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
 		System::Diagnostics::Process::Start("D:\\VSTUDIO 2022\\Pongoo\\x64\\Debug\\Pongoo.exe"); 
 	}
+	
  \\Pongoo\\x64\\Debug\\Pongoo.exe pozostaje takie samo 
  
 Uruchomić programy.
@@ -31,6 +32,7 @@ dokładnie 143 linijkę kodu na odpowiednią ścieżkę w której znajduje się 
 private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
 		System::Diagnostics::Process::Start("D:\\VSTUDIO 2022\\Pongoo\\x64\\Debug\\Pongoo.exe"); 
 	}
+	
  \\Pongoo\\x64\\Debug\\Pongoo.exe pozostaje takie samo 
  
  Uruchomić programy.
