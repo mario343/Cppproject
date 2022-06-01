@@ -37,7 +37,10 @@ private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e
  
  
  ################### ################### ################### ################### ###################
- Urochomić programy możemy debugowując je w Visual Studio, można też uruchomić je za pomocą plików .exe
+ Urochomić programy możemy na 2 sposoby
+ 1.debugowując je w Visual Studio
+ 
+ 2.można też uruchomić je za pomocą plików .exe
  które znajdują się w \\x64\\Debug\\ w każdym z folderów, w którym znajdują się rozwiązania
  
  ## Mariusz Wilk 2022
