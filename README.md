@@ -7,6 +7,7 @@ Otworzyć Visual Studio oraz sklonować repozytorium z tego linku
 https://github.com/mario343/Cppproject.git
 
 Zbudować oba rozwiązania
+
 Zmienić odpowiednią ścieżkę w kodzie w Myform.h (znajduje się w Header Files) dla Project3
 dokładnie 143 linijkę kodu na odpowiednią ścieżkę w której znajduje się plik exe od gry
 
